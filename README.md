@@ -24,6 +24,13 @@
 - localStorage
 
 --5--ToDo App
-Design: http://todomvc.com/examples/react/#/
-CRUD todos
-localStorage
+- Design: http://todomvc.com/examples/react/#/
+- CRUD todos
+- localStorage
+
+--6--Movie App
+- Design: https://uidesigndaily.com/posts/photoshop-movie-app-mobile-day-193
+- list of movies
+- movie info
+- fav movie
+- actors
