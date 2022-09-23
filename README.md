@@ -39,3 +39,8 @@
 - Design: https://uidesigndaily.com/posts/photoshop-profile-card-user-day-286
 - search for user
 - get and show data
+
+--8--Drawing App
+- canvas
+- size
+- color
